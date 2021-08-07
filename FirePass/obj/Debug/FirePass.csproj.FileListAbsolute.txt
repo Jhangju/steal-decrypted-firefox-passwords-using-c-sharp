@@ -1,0 +1,6 @@
+C:\Users\black\source\repos\FirePass\FirePass\bin\Debug\FirePass.exe.config
+C:\Users\black\source\repos\FirePass\FirePass\bin\Debug\FirePass.exe
+C:\Users\black\source\repos\FirePass\FirePass\bin\Debug\FirePass.pdb
+C:\Users\black\source\repos\FirePass\FirePass\obj\Debug\FirePass.csproj.CoreCompileInputs.cache
+C:\Users\black\source\repos\FirePass\FirePass\obj\Debug\FirePass.exe
+C:\Users\black\source\repos\FirePass\FirePass\obj\Debug\FirePass.pdb
